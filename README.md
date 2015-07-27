@@ -4,7 +4,7 @@
 
 ###Relevant files:
 
-####src/python_mongo_HelloWorld.py
+####src/python_drda_HelloWorld.py
 
 This file contains all of the sample data interacting with the database.
 
