@@ -8,11 +8,11 @@
 
 This file contains all of the sample data interacting with the database.
 
-####manifest.yml
+####src/manifest.yml
 
 If deploying to bluemix, this file gives details about the application.
 
-####requirements.txt
+####src/requirements.txt
 
 This file gathers dependencies.
 
