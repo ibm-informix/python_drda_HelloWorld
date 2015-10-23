@@ -52,7 +52,7 @@ def parseVCAP():
          
     url = "HOSTNAME=" + host + ";PORT=" + str(port) + ";DATABASE="+ database + ";PROTOCOL=TCPIP;UID=" + username +";PWD="+ password + ";"
     if ssl == True:
-        url += "sslConnection=true;"
+        url += "Security=ssl;"
 
 
 def doEverything(): 
